@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+BEANS
+beans
+
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Baked
+- beans
+- suace
 
 ## Getting started
 
